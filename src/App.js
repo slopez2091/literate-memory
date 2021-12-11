@@ -1,6 +1,7 @@
 
 import './App.css';
 import Example from './components/Example';
+import ExampleTwo from './components/ExampleTwo';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         </a>
       </header> */}
       <Example />
+      <ExampleTwo />
     </div>
   );
 }
